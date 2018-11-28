@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-firebase" version="2.0.5"
+<plugin id="cordova-firebase-mytelkomsel" version="2.0.5"
 xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android">
-	<name>Google Firebase Plugin</name>
+	<name>Firebase Plugin Telkomsel</name>
 
 	<license>MIT</license>
 
